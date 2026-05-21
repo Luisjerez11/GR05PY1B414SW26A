@@ -18,19 +18,32 @@ El sistema permite administrar clientes, vehículos, reservas, pagos, devolucion
 
 ---
 
-## Indicaciones para ejecutar el JAR
+## Indicaciones para ejecutar
 
-1. Descargar el archivo `Proyecto-Requerimientos.jar`
+1. Descargar el repositorio completo o el archivo `.zip`
 
-2. Abrir una terminal en la carpeta donde se encuentra el archivo
+2. Ir a la carpeta:
 
-3. Ejecutar el siguiente comando:
+```text
+Proyecto-Requerimientos/out/artifacts/Proyecto_Requerimientos_jar2
+```
+
+3. Verificar que en esa carpeta se encuentren:
+
+- Proyecto-Requerimientos.jar
+- usuarios.csv
+- vehiculos.csv
+- reservas.csv
+- pagos.csv
+- facturas.csv
+- incidentes.csv
+- devoluciones.csv
+
+4. Ejecutar:
 
 ```bash
 java -jar Proyecto-Requerimientos.jar
 ```
-
----
 
 ## Credenciales de prueba
 
@@ -50,13 +63,6 @@ Se debe usar un cliente registrado previamente en el sistema.
 El sistema utiliza archivos **CSV** para almacenar la información (clientes, vehículos, reservas, pagos, etc.).
 
 Por esta razón, se debe mantener la estructura completa del proyecto y los archivos CSV incluidos en el repositorio para el correcto funcionamiento del sistema.
-
-El repositorio incluye:
-
-- Código fuente completo
-- Archivo ejecutable `.jar`
-- Archivos CSV necesarios
-- Archivo `.zip` como respaldo
 
 ---
 
@@ -84,7 +90,7 @@ El repositorio incluye:
 
 ---
 
-## Autor
+## Autores
 
-**Luis Jerez**  
+**Britney Cayambe, Erick Gualoto, Luis Jerez, Leandro Rubio**  
 **Grupo 05**
