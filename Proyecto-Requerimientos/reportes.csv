@@ -1,0 +1,6 @@
+idReporte,tipoReporte,fechaGeneracion,contenido
+R001,General,2026-05-20,REPORTE GENERAL DEL SISTEMA |  | Total de clientes registrados: 2 | Total de vehículos registrados: 1 | Vehículos disponibles: 0 | Vehículos alquilados: 1 | Total de reservas registradas: 5 | Reservas activas: 1 | Reservas canceladas: 4 | Ingresos estimados por reservas activas: $3000.0
+R002,Clientes,2026-05-20,REPORTE DE CLIENTES |  | Total de clientes registrados: 2
+R003,General,2026-05-20,REPORTE GENERAL DEL SISTEMA |  | Total de clientes registrados: 2 | Total de vehículos registrados: 1 | Vehículos disponibles: 0 | Vehículos alquilados: 1 | Total de reservas registradas: 5 | Reservas activas: 1 | Reservas canceladas: 4 | Ingresos estimados por reservas activas: $3000.0
+R004,General,2026-05-20,REPORTE GENERAL DEL SISTEMA |  | Total de clientes registrados: 2 | Total de vehículos registrados: 1 | Vehículos disponibles: 0 | Vehículos alquilados: 1 | Total de reservas registradas: 6 | Reservas activas: 1 | Reservas canceladas: 5 | Ingresos estimados por reservas activas: $700.0
+R005,General,2026-05-21,REPORTE GENERAL DEL SISTEMA |  | Total de clientes registrados: 2 | Total de vehículos registrados: 1 | Vehículos disponibles: 1 | Vehículos alquilados: 0 | Total de reservas registradas: 7 | Reservas activas: 0 | Reservas canceladas: 7 | Ingresos estimados por reservas activas: $0.0

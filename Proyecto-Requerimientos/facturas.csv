@@ -1,0 +1,4 @@
+idFactura,fecha,total,impuesto,estado,idPago,idReserva,usuarioCliente
+F001,2026-05-20,115.0,15.0,Generada,P001,007,Cliente2
+F002,2026-05-20,115.0,15.0,Generada,P002,007,Cliente2
+F003,2026-05-20,115.0,15.0,Generada,P003,007,Cliente2

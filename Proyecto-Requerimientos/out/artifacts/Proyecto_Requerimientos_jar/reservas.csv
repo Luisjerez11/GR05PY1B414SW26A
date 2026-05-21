@@ -1,0 +1,6 @@
+idReserva,fechaInicio,fechaFin,fechaReserva,estado,costoTotal,tipoReserva,idVehiculo,usuarioCliente
+001,2026-05-20,2026-05-22,2026-05-19,Cancelada,200.0,Semanal,001,Cliente1
+002,2026-05-20,2026-05-22,2026-05-20,Cancelada,200.0,Semanal,001,Cliente2
+003,2026-05-20,2026-05-22,2026-05-20,Cancelada,200.0,Mensual,001,Cliente2
+004,2026-05-20,2026-05-27,2026-05-20,Cancelada,700.0,Semanal,001,Cliente2
+005,2026-05-20,2026-06-19,2026-05-20,Cancelada,3000.0,Mensual,001,Cliente2

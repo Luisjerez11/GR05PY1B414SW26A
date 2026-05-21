@@ -1,0 +1,36 @@
+FACTURA
+-----------------------------
+ID Factura: F001
+Fecha: 2026-05-20
+Total: $115.0
+Impuesto: $15.0
+Estado: Generada
+ID Pago: P001
+ID Reserva: 007
+Cliente: Cliente2
+-----------------------------
+
+FACTURA
+-----------------------------
+ID Factura: F002
+Fecha: 2026-05-20
+Total: $115.0
+Impuesto: $15.0
+Estado: Generada
+ID Pago: P002
+ID Reserva: 007
+Cliente: Cliente2
+-----------------------------
+
+FACTURA
+-----------------------------
+ID Factura: F003
+Fecha: 2026-05-20
+Total: $115.0
+Impuesto: $15.0
+Estado: Generada
+ID Pago: P003
+ID Reserva: 007
+Cliente: Cliente2
+-----------------------------
+

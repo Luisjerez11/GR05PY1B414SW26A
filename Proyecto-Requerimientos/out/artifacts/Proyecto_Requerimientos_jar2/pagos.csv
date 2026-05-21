@@ -1,0 +1,4 @@
+idPago,fechaPago,monto,metodoPago,estado,idFactura,idReserva,usuarioCliente
+P001,2026-05-20,115.0,Efectivo,Confirmado,F001,007,Cliente2
+P002,2026-05-20,115.0,Efectivo,Confirmado,F002,007,Cliente2
+P003,2026-05-20,115.0,Efectivo,Confirmado,F003,007,Cliente2

@@ -1,0 +1,4 @@
+usuario,password,rol,nombre,cedula,telefono,email,direccion,licencia
+admin,1234,ADMIN,Administrador,0000000000,0999999999,admin@gmail.com,Sistema,true
+Cliente1,prueba,CLIENTE,Luis Jerez,1472583697,0123456789,hola@gmial.com,EPN,true
+Cliente2,prueba1,CLIENTE,David,0147852369,0147852369,ola@gmial.com,EPN,false
